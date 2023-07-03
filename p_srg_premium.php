@@ -119,7 +119,7 @@ PLYWOOD</div>
     						<div class="oc-item srgproduct-thumb-active">
 							<img src="images/srg_premium_t.jpg" alt="SRG PREMIUM">
 						</div>
-                        
+                      
                     
 						<div class="oc-item srgproduct-thumb ">
 							<a href="p_srg_captor.php"><img src="images/srg_captor_t.jpg" alt="SRG CAPTOR">
@@ -140,6 +140,16 @@ PLYWOOD</div>
                         
 						<div class="oc-item srgproduct-thumb">
 							<a href="p_srg_shuttering_ply.php"><img src="images/srg_shuttering_ply_t.jpg" alt="SRG SHUTTERING PLY">
+								</a>
+						</div>
+	
+						<div class="oc-item srgproduct-thumb">
+							<a href="p_srg_omen.php"><img src="images/onem.jpg" alt="SRG OMEN PLYWOOD">
+								</a>
+						</div>
+	
+						<div class="oc-item srgproduct-thumb">
+							<a href="p_srg_agni_shield.php"><img src="images/srg_agni_t.jpg" alt="SRG AGNI SHIELD PLYWOOD">
 								</a>
 						</div>
                         
