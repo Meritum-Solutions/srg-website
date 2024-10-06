@@ -279,6 +279,9 @@ At SRG, we make this SRG CLUB Plywood bond with  premium-grade phenol formaldehy
 							<p> <img src="images/srg_icons3/19.png" alt="Lifetime Warranty" style="padding:0 30px 30px 0;">
                             								
 </p>
+<p> <img src="images/srg_icons/srg_icon_fire_retardant.png" alt="Fire Retardant" style="padding:0 30px 30px 0;">
+                            								
+															</p>
 						  </div>
 
                           
