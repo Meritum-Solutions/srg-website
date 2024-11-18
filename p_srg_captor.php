@@ -380,7 +380,7 @@ It comes with 10* years of warranty.
                                 
                                 
                             <div class="tab-pane srgtabtext fade" id="warranty_bwr">
-							<p><img src="images/srg_icons3/16.png" alt="16" style="padding:0 30px 30px 0;"></p>
+							<p><img src="images/srg_icons3/20.png" alt="16" style="padding:0 30px 30px 0;"></p>
 								</div>
 
                           
@@ -467,7 +467,7 @@ It comes with 10* years of warranty.
                                 
                                 
                             <div class="tab-pane srgtabtext fade" id="warranty_mr">
-							<p><img src="images/srg_icons3/16.png" alt="" style="padding:0 30px 30px 0;"></p>
+							<p><img src="images/srg_icons3/20.png" alt="" style="padding:0 30px 30px 0;"></p>
 								</div>
 
                           

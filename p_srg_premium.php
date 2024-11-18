@@ -268,7 +268,7 @@ It comes in two distinct grades - Boiling Water  Proof (BWP) and Moisture Resist
                                 
                                 
                             <div class="tab-pane srgtabtext fade" id="warranty">
-							<p><img src="images/srg_icons3/20.png" alt="" style="padding:0 30px 30px 0;"></p>
+							<p><img src="images/srg_icons3/19.png" alt="Lifetime Warranty" style="padding:0 30px 30px 0;"></p>
 						  </div>
 
                           
