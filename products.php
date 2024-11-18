@@ -163,13 +163,22 @@
                             </div>
 <div class="col-md-4 ">
 	<div class="oc-item srgproduct-thumb">
-	<a href="#">
-		<img src="images/onem.png" alt="SRG ONEM PLY">
+	<a href="p_srg_omen.php">
+		<img src="images/onem.png" alt="SRG OMEN PLY">
 	</a>
 	</div>
 </div>		
                         
-                
+                					
+					<div class="col-md-4 ">
+	<div class="oc-item srgproduct-thumb">
+	<a href="p_srg_agni_shield.php">
+		<img src="images/srg_agni_t.png" alt="SRG AGNI SHIELD PLYWOOD">
+	</a>
+	</div>
+</div>
+               
+            
                       
                 
                 </div>

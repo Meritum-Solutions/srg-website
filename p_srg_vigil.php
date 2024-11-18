@@ -117,14 +117,26 @@ PLYWOOD</div>
                 <div id="oc-images" class="owl-carousel image-carousel carousel-widget" data-margin="20" data-nav="true" data-pagi="false" data-items-xs="2" data-items-sm="3" data-items-lg="4" data-items-xl="5">
     
                         
-						<div class="oc-item srgproduct-thumb">
+						<div class="oc-item srgproduct-thumb-active">
 							<img src="images/srg_vigil_t.jpg" alt="SRG VIGIL">
 								
 						</div>
                                               
                         
+						                                              
+                        
 						<div class="oc-item srgproduct-thumb">
 							<a href="p_srg_shuttering_ply.php"><img src="images/srg_shuttering_ply_t.jpg" alt="SRG SHUTTERING PLY">
+								</a>
+						</div>
+	
+						<div class="oc-item srgproduct-thumb">
+							<a href="p_srg_omen.php"><img src="images/onem.jpg" alt="SRG OMEN PLYWOOD">
+								</a>
+						</div>
+	
+						<div class="oc-item srgproduct-thumb">
+							<a href="p_srg_agni_shield.php"><img src="images/srg_agni_t.jpg" alt="SRG AGNI SHIELD PLYWOOD">
 								</a>
 						</div>
                         

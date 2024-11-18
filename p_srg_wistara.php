@@ -121,6 +121,8 @@ PLYWOOD</div>
 							<img src="images/srg_wistara_t.jpg" alt="SRG WISTARA">
 						</div>
                         
+						
+                        
 						<div class="oc-item srgproduct-thumb">
 							<a href="p_srg_vigil.php"><img src="images/srg_vigil_t.jpg" alt="SRG VIGIL">
 								</a>
@@ -129,6 +131,16 @@ PLYWOOD</div>
                         
 						<div class="oc-item srgproduct-thumb">
 							<a href="p_srg_shuttering_ply.php"><img src="images/srg_shuttering_ply_t.jpg" alt="SRG SHUTTERING PLY">
+								</a>
+						</div>
+	
+						<div class="oc-item srgproduct-thumb">
+							<a href="p_srg_omen.php"><img src="images/onem.jpg" alt="SRG OMEN PLYWOOD">
+								</a>
+						</div>
+	
+						<div class="oc-item srgproduct-thumb">
+							<a href="p_srg_agni_shield.php"><img src="images/srg_agni_t.jpg" alt="SRG AGNI SHIELD PLYWOOD">
 								</a>
 						</div>
                         
@@ -270,7 +282,7 @@ It comes with 16* solid years of warranty.
                                 
                                 
                             <div class="tab-pane srgtabtext fade" id="warranty">
-							<p><img src="images/srg_icons3/3.png" alt="" style="padding:0 30px 30px 0;"></p>
+							<p><img src="images/srg_icons3/20.png" alt="" style="padding:0 30px 30px 0;"></p>
 								</div>
 
                           
@@ -362,7 +374,7 @@ It comes with 16* solid years of warranty.
                                 
                                 
                             <div class="tab-pane srgtabtext fade" id="warranty_bwr">
-							<p><img src="images/srg_icons3/16.png" alt="16" style="padding:0 30px 30px 0;"></p>
+							<p><img src="images/srg_icons3/18.png" alt="16" style="padding:0 30px 30px 0;"></p>
 								</div>
 
                           
@@ -453,7 +465,7 @@ It comes with 10*years of warranty.
                                 
                                 
                             <div class="tab-pane srgtabtext fade" id="warranty_mr">
-							<p><img src="images/srg_icons3/16.png" alt="" style="padding:0 30px 30px 0;"></p>
+							<p><img src="images/srg_icons3/18.png" alt="" style="padding:0 30px 30px 0;"></p>
 								</div>
 
                           

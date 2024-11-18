@@ -119,7 +119,7 @@ PLYWOOD</div>
     						<div class="oc-item srgproduct-thumb-active">
 							<img src="images/srg_premium_t.jpg" alt="SRG PREMIUM">
 						</div>
-                        
+                      
                     
 						<div class="oc-item srgproduct-thumb ">
 							<a href="p_srg_captor.php"><img src="images/srg_captor_t.jpg" alt="SRG CAPTOR">
@@ -140,6 +140,16 @@ PLYWOOD</div>
                         
 						<div class="oc-item srgproduct-thumb">
 							<a href="p_srg_shuttering_ply.php"><img src="images/srg_shuttering_ply_t.jpg" alt="SRG SHUTTERING PLY">
+								</a>
+						</div>
+	
+						<div class="oc-item srgproduct-thumb">
+							<a href="p_srg_omen.php"><img src="images/onem.jpg" alt="SRG OMEN PLYWOOD">
+								</a>
+						</div>
+	
+						<div class="oc-item srgproduct-thumb">
+							<a href="p_srg_agni_shield.php"><img src="images/srg_agni_t.jpg" alt="SRG AGNI SHIELD PLYWOOD">
 								</a>
 						</div>
                         
@@ -258,7 +268,7 @@ It comes in two distinct grades - Boiling Water  Proof (BWP) and Moisture Resist
                                 
                                 
                             <div class="tab-pane srgtabtext fade" id="warranty">
-							<p><img src="images/srg_icons3/20.png" alt="" style="padding:0 30px 30px 0;"></p>
+							<p><img src="images/srg_icons3/19.png" alt="Lifetime Warranty" style="padding:0 30px 30px 0;"></p>
 						  </div>
 
                           
