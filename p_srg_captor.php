@@ -284,7 +284,7 @@ It comes with 21* years of warranty.</p>
                                 
                                 
                             <div class="tab-pane srgtabtext fade" id="warranty">
-							<p><img src="images/srg_icons3/4.png" alt="" style="padding:0 30px 30px 0;"></p>
+							<p><img src="images/srg_icons3/22.png" alt="30 Yrs Of Warranty" style="padding:0 30px 30px 0;"></p>
 								</div>
 
                           
