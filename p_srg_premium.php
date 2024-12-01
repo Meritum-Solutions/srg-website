@@ -443,7 +443,7 @@ Born tough, SRG MR works best for making furniture, wardrobe , partitions, cabin
                                 
                                 
                             <div class="tab-pane srgtabtext fade" id="warranty_mr">
-							<p><img src="images/srg_icons3/17.png" alt="" style="padding:0 30px 30px 0;"></p>
+							<p><img src="images/srg_icons3/22.png" alt="30 Yrs Warranty" style="padding:0 30px 30px 0;"></p>
 						  </div>
 
                           

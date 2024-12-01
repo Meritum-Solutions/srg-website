@@ -468,7 +468,7 @@ Rough to withstand many distinct climatic conditions, this plywood gets used in 
                                 
                                 
                             <div class="tab-pane srgtabtext fade" id="warranty_mr">
-							<p><img src="images/srg_icons3/16.png" alt="" style="padding:0 30px 30px 0;"></p>
+							<p><img src="images/srg_icons3/18.png" alt="20 Yrs Of Warranty" style="padding:0 30px 30px 0;"></p>
 								</div>
 
                           
