@@ -212,7 +212,7 @@ It comes in two distinct grades - Boiling Water  Proof (BWP) and Moisture Resist
 						<div id="myTabContent" class="tab-content">
 						  <div class="tab-pane srgtabtext fade show active" id="overview_bwp">
 							<p>Made  using the most premium quality imported timber, SRG BWP Grade Plywood is known  for its unparalleled stiffness and high strength.</p>
-                            <p>With  each core veneer treated by phosphoric compound with adhesive, directly during  processing, the product comes with a 25*year warranty. It is usually ship  floors, boats, corridors, as well as cargo hold covers that make use of this  incredibly strong plywood from SRG. </p>
+                            <p>With  each core veneer treated by phosphoric compound with adhesive, directly during  processing, the product comes with a <b>lifetime warranty</b>. It is usually ship  floors, boats, corridors, as well as cargo hold covers that make use of this  incredibly strong plywood from SRG. </p>
                             <p>SRG  BWP Grade Plywood is bonded with high quality phenol formaldehyde resin of BWP  grade, manufactured at our own resin plant, following the process and strict  parameters of resin manufacturing, as controlled and guided by IS  848: 2006.						  </p>
 						  </div>
 						  <div class="tab-pane srgtabtext fade" id="features_bwp">
@@ -387,7 +387,7 @@ It comes in two distinct grades - Boiling Water  Proof (BWP) and Moisture Resist
 						  <div class="tab-pane srgtabtext fade show active" id="overview_mr">
 							<p>The moisture-resistant variant of SRG Premium Plywood is manufactured from the best quality imported timber, when it is bonded with synthetic amino plus resin, with the process and parameters of resin manufacturing strenuously controlled and guided by IS 848 : 2006. </p>
 <p>
-SRG MR Grade Plywood comes with a 15*-year warranty surpassing every parameter under IS 303 : 1989. The adhesive used in making this brilliant MR variant has an organophosphorus compound mixed with it to protect the surface against attack from any dangerous microorganisms. </p>
+SRG MR Grade Plywood comes with a 30*-year warranty surpassing every parameter under IS 303 : 1989. The adhesive used in making this brilliant MR variant has an organophosphorus compound mixed with it to protect the surface against attack from any dangerous microorganisms. </p>
 <p>
 Born tough, SRG MR works best for making furniture, wardrobe , partitions, cabins, and so on. 
  
