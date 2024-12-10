@@ -181,7 +181,7 @@ PLYWOOD</div>
 <p>
 It is bonded, at a very high pressure and temperature, through hot press. Each core veneer is treated by a phosphoric compound directly with adhesive during processing.</p>
 <p>
-Part of our eco-friendly product range, SRG Vigil Plywood comes with 16* years of warranty.
+Part of our eco-friendly product range, SRG Vigil Plywood comes with 25* years of warranty.
  </p>
 
 	                      </div>
@@ -222,7 +222,7 @@ Part of our eco-friendly product range, SRG Vigil Plywood comes with 16* years o
 <p>
 Rough to withstand many distinct climatic conditions, this plywood gets used in making partitions, paneling, cabins, corridors, vehicle and cargo hold covers, amongst other things. </p>
 
-<p>It comes with 16* years of warranty. 
+<p>It comes with 25* years of warranty. 
 
  
 </p>
@@ -320,7 +320,7 @@ Rough to withstand many distinct climatic conditions, this plywood gets used in 
 						  <div class="tab-pane srgtabtext fade show active" id="overview_bwr">
 							<p>VIGIL BWR (Boiling Water Resistance) Grade is bonded with phenol formaldehyde synthetic resin. The resin used here is manufactured at the resin manufacturing plant owned by SRG. The process and parameters of our resin manufacturing are stringently controlled and guided by IS 848: 2006.</p>
 <p>VIGIL is suitable for making partitions, panelling, ceilings, and so on, owing to its ability to withstand climatic condition.</p>
-<p>It comes with 10* years of warranty.</p>
+<p>It comes with 20* years of warranty.</p>
 
 </p>
 
@@ -409,7 +409,7 @@ Rough to withstand many distinct climatic conditions, this plywood gets used in 
 						  <div class="tab-pane srgtabtext fade show active" id="overview_mr">
 							<p>VIGIL MR( Moisture Resistance Grade) is bonded with synthetic amino plus resin. The resin used here is manufactured at the resin manufacturing plant owned by SRG. The process and parameters of our resin manufacturing are stringently controlled and guided by IS 848: 2006.</p>
 <p>VIGIL is suitable for making partitions, panelling, ceilings, Indoor furniture’s  and so on.</p>
-<p>It comes with 10* years of warranty.
+<p>It comes with 20* years of warranty.
 </p>
  
 
@@ -468,7 +468,7 @@ Rough to withstand many distinct climatic conditions, this plywood gets used in 
                                 
                                 
                             <div class="tab-pane srgtabtext fade" id="warranty_mr">
-							<p><img src="images/srg_icons3/16.png" alt="" style="padding:0 30px 30px 0;"></p>
+							<p><img src="images/srg_icons3/18.png" alt="20 Yrs Of Warranty" style="padding:0 30px 30px 0;"></p>
 								</div>
 
                           

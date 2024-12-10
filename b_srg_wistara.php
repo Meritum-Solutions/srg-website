@@ -148,7 +148,7 @@
 					<div class="srgtabtext " >
 							<p>Wistara Block Board range includes both BWP as well as MR grades. Wistara Block Board of BWP grade is an exterior grade Boiling Water Proof Block Board whereas Wistara MR Block Board is an interior grade Moisture Resistance one. With its glue line fortified with a non-leachable organophosphorus compound, Wistara Block Board also comes with a double core. </p> 
 <p>
-This competitively priced product from SRG comes with 10* years of warranty. </p>
+This competitively priced product from SRG comes with 20* years of warranty. </p>
 	                      </div>
                     						
 					<!-- description ends -->
@@ -188,7 +188,7 @@ This competitively priced product from SRG comes with 10* years of warranty. </p
 The process and parameters of resin manufacturing at our plant are stringently controlled and guided by the parameters listed under IS 848: 2006
 </p>
 <p>
-Wistara comes with 10 years of warranty.
+Wistara comes with 20* years of warranty.
 </p>
 
 						  </div>
@@ -242,7 +242,7 @@ Wistara comes with 10 years of warranty.
                                 
                                 
                             <div class="tab-pane srgtabtext fade" id="warranty">
-							<p><img src="images/srg_icons3/16.png" alt="" style="padding:0 30px 30px 0;"></p>
+							<p><img src="images/srg_icons3/18.png" alt="" style="padding:0 30px 30px 0;"></p>
 								</div>
 
                           
@@ -276,7 +276,7 @@ Wistara comes with 10 years of warranty.
 
 <p>This grade Plywood is suitable for making partitions, paneling, ceilings, and more, as it can easily withstand all climatic changes. </p>
  			
-<p>It comes with 10* years of warranty. 
+<p>It comes with 15* years of warranty. 
 </p>
 
 						  </div>
@@ -328,7 +328,7 @@ Wistara comes with 10 years of warranty.
                                 
                                 
                             <div class="tab-pane srgtabtext fade" id="warranty_bwr">
-							<p><img src="images/srg_icons3/16.png" alt="16" style="padding:0 30px 30px 0;"></p>
+							<p><img src="images/srg_icons3/17.png" alt="16" style="padding:0 30px 30px 0;"></p>
 								</div>
 
                           

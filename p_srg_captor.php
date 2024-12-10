@@ -178,7 +178,7 @@ PLYWOOD</div>
 					<div class="srgtabtext " >
 							<p>SRG uses only the most premium quality tropical hardwood that showcases high strength and stiffness to manufacture Captor Grade Plywood. We bond this plywood, at high pressure and temperature, through a thermo hot press, which gives rise to its incredible structural strength. </p>
 <p>
-SRG Captor comes with a warranty period of 21 *years. </p>
+SRG Captor comes with a warranty period of 30 *years. </p>
 
 	                      </div>
                     						
@@ -218,7 +218,7 @@ SRG Captor comes with a warranty period of 21 *years. </p>
 <p>
 Born tough, Captor BWP Grade Plywood is designed to withstand any climatic condition. It is used in construction, cooling tyre, public hoarding signboards, and for structural applications, amongst other things.</p>
 <p>
-It comes with 21* years of warranty.</p>
+It comes with 30* years of warranty.</p>
 
 						  </div>
 						  <div class="tab-pane srgtabtext fade" id="features_bwp">
@@ -284,7 +284,7 @@ It comes with 21* years of warranty.</p>
                                 
                                 
                             <div class="tab-pane srgtabtext fade" id="warranty">
-							<p><img src="images/srg_icons3/4.png" alt="" style="padding:0 30px 30px 0;"></p>
+							<p><img src="images/srg_icons3/22.png" alt="30 Yrs Of Warranty" style="padding:0 30px 30px 0;"></p>
 								</div>
 
                           
@@ -318,7 +318,7 @@ It comes with 21* years of warranty.</p>
 <p>
 This grade Plywood is suitable for making partitions, paneling, ceilings, and more, as it can easily withstand  climatic changes.  </p>
  <p>			
-It comes with 10* years of warranty.  
+It comes with 25* years of warranty.  
  
 </p>
 
@@ -412,7 +412,7 @@ It comes with 10* years of warranty.
 <p>
 This grade Plywood is suitable for making cabinets, study, offices, and more.  </p>
 <p>			
-It comes with 10* years of warranty. 
+It comes with 25* years of warranty. 
 </p>
 
 						  </div>
