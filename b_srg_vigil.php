@@ -149,7 +149,7 @@
 					<div class="srgtabtext " >
 							<p>VIGIL Block Board range includes BWP grade and MR grade Block Boards. The BWP grade is an exterior grade Boiling Water Proof Block Board, whereas Vigil MR is an interior grade Moisture Resistance one. Vigil Block Board comes with a double core too, and it has the glue line fortified with a non-leachable organophosphorus compound.  </p>
 <p>
-This beautiful eco-friendly product comes with 10* years of warranty.</p>
+This beautiful eco-friendly product comes with 20* years of warranty.</p>
 	                      </div>
                     						
 					<!-- description ends -->
@@ -186,7 +186,7 @@ This beautiful eco-friendly product comes with 10* years of warranty.</p>
 						  <div class="tab-pane srgtabtext fade show active" id="overview_bwp">
 							<p>Born tough as per IS 1659: 2004, Vigil Block Board of BWP grade is an exterior grade Boiling Water Proof Block Board, manufactured carefully with crossband from tropical hardwood and pine seasoned wood as plumber core. Vigil BWP Block Board is bonded with superior quality BWP grade resin manufactured at our own ultra-modern resin manufacturing plant, where the process and parameters of manufacturing are controlled and guided as per IS 848: 2006, stringently.  </p>
 <p>
-It comes with 10* years of warranty.
+It comes with 20* years of warranty.
 
 </p>
 
@@ -271,7 +271,7 @@ It comes with 10* years of warranty.
 						  <div class="tab-pane srgtabtext fade show active" id="overview_bwr">
 							<p>Vigil MR Block Board is an interior grade Moisture Resistance one, manufactured carefully with crossband from tropical hardwood and pine seasoned wood as plumber core. Vigil MR Block Board is bonded with superior quality synthetic MR grade resin manufactured at our own ultra-modern resin manufacturing plant, where the process and parameters of manufacturing are controlled and guided as per IS 848: 2006, stringently.  </p>
  			
-<p>It comes with 10* years of warranty.
+<p>It comes with 15* years of warranty.
 </p>
 
 						  </div>

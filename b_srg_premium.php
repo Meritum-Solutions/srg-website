@@ -184,7 +184,7 @@
 						  <div class="tab-pane srgtabtext fade show active" id="overview_bwp">
 							<p>SRG Block Board of BWP grade is an exterior grade Boiling Water Proof Blockboard. This SRG Blockboard is bonded with a superior quality phenolic synthetic resin of BWP grade. Resin is manufactured at our own state-of-the-art manufacturing plant.	</p>
 <p>
-It comes with a warranty of 15* years.</p>
+It comes with a warranty of 30* years.</p>
 
 						  </div>
 						  <div class="tab-pane srgtabtext fade" id="features_bwp">
@@ -354,7 +354,7 @@ It comes with a warranty of 15* years.</p>
 						  <div class="tab-pane srgtabtext fade show active" id="overview_mr">
 							<p>SRG Blockboard of MR grade is an interior grade Moisture Resistant Blockboard. This Blockboard is bonded with superior quality synthetic amino plus resin. It is manufactured carefully with crossband from the imported timber and pine seasoned wood as plumber core. Resin is manufactured at SRG's own extremely well-equipped manufacturing plant.	</p>	
 <p>
-It comes with a warranty of 15* years. 
+It comes with a warranty of 20* years. 
  
 </p>
 

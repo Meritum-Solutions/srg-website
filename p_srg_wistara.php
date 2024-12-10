@@ -178,7 +178,7 @@ PLYWOOD</div>
 					<div class="srgtabtext " >
 							<p>SRG Wistara Plywood is manufactured using the highest quality hard core, providing it with unparalleled stiffness and strength. </p>
 <p>
-Each core veneer is treated by a phosphoric compound directly with adhesive during  processing. Available within a very competitive price range, SRG Wistara comes with 16* years of warranty.   </p>
+Each core veneer is treated by a phosphoric compound directly with adhesive during  processing. Available within a very competitive price range, SRG Wistara comes with 25* years of warranty.   </p>
 
 	                      </div>
                     						
@@ -218,7 +218,7 @@ Each core veneer is treated by a phosphoric compound directly with adhesive duri
 <p>
 Designed to withstand just about any climatic condition, Wistara BWP Grade Plywood is generally used in making partitions, paneling, Kitchen Furniture, corridors, vehicle and cargo hold covers, and so on. </p>
 <p>
-It comes with 16* solid years of warranty. 
+It comes with 25* solid years of warranty. 
 </p>
 
 						  </div>
@@ -316,7 +316,7 @@ It comes with 16* solid years of warranty.
 
 <p>This plywood is suitable for making Movie Set, partitions, paneling, ceilings, furniture and more, being able to withstand climatic changes. </p>
 
-<p>It comes with 10*years of warranty.	
+<p>It comes with 20*years of warranty.	
 
 </p>
 
@@ -406,7 +406,7 @@ It comes with 16* solid years of warranty.
 
 <p>This plywood is suitable for making Indoor Furniture, ceilings, furniture and more. </p>
 <p>
-It comes with 10*years of warranty.
+It comes with 20*years of warranty.
 
 
 </p>
