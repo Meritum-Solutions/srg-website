@@ -149,7 +149,7 @@
 					<div class="srgtabtext " >
 							<p>SRG Flush Door is a premium product made from a very selected veneer of imported hardwood as crossband and seasoned wood pine as plumber core. This product is given boron treatment to ensure durable and everlasting status. Structurally and dimensionally, SRG Flush Door is known to be highly stable.  </p>
 <p>
-It comes with a warranty of 20* years.
+It comes with a warranty of 30* years.
 </p>
 	                      </div>
                     						
@@ -187,7 +187,7 @@ It comes with a warranty of 20* years.
 						  <div class="tab-pane srgtabtext fade show active" id="overview_bwp">
 							<p>SRG Flush Door is bonded with synthetic phenolic resin manufactured at our state-of-the-art resin plant to ensure rigidness of the product. The process and parameters of resin manufacturing are controlled and guided, strictly, by IS 848: 2006.SRG flush door born with preservative chemical treatment at various processing stages.</p>
 <p>
-It comes with a warranty of 20* years. 
+It comes with a warranty of 30* years. 
 </p>
 
 						  </div>
@@ -248,7 +248,7 @@ It comes with a warranty of 20* years.
                                 
                                 
                             <div class="tab-pane srgtabtext fade" id="warranty">
-							<p><img src="images/srg_icons3/18.png" alt="" style="padding:0 30px 30px 0;"></p>
+							<p><img src="images/srg_icons3/22.png" alt="30 Yrs Of Warranty" style="padding:0 30px 30px 0;"></p>
 								</div>
 
                           

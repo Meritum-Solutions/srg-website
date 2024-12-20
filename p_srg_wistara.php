@@ -121,6 +121,8 @@ PLYWOOD</div>
 							<img src="images/srg_wistara_t.jpg" alt="SRG WISTARA">
 						</div>
                         
+						
+                        
 						<div class="oc-item srgproduct-thumb">
 							<a href="p_srg_vigil.php"><img src="images/srg_vigil_t.jpg" alt="SRG VIGIL">
 								</a>
@@ -129,6 +131,16 @@ PLYWOOD</div>
                         
 						<div class="oc-item srgproduct-thumb">
 							<a href="p_srg_shuttering_ply.php"><img src="images/srg_shuttering_ply_t.jpg" alt="SRG SHUTTERING PLY">
+								</a>
+						</div>
+	
+						<div class="oc-item srgproduct-thumb">
+							<a href="p_srg_omen.php"><img src="images/onem.jpg" alt="SRG OMEN PLYWOOD">
+								</a>
+						</div>
+	
+						<div class="oc-item srgproduct-thumb">
+							<a href="p_srg_agni_shield.php"><img src="images/srg_agni_t.jpg" alt="SRG AGNI SHIELD PLYWOOD">
 								</a>
 						</div>
                         
@@ -166,7 +178,7 @@ PLYWOOD</div>
 					<div class="srgtabtext " >
 							<p>SRG Wistara Plywood is manufactured using the highest quality hard core, providing it with unparalleled stiffness and strength. </p>
 <p>
-Each core veneer is treated by a phosphoric compound directly with adhesive during  processing. Available within a very competitive price range, SRG Wistara comes with 16* years of warranty.   </p>
+Each core veneer is treated by a phosphoric compound directly with adhesive during  processing. Available within a very competitive price range, SRG Wistara comes with 25* years of warranty.   </p>
 
 	                      </div>
                     						
@@ -206,7 +218,7 @@ Each core veneer is treated by a phosphoric compound directly with adhesive duri
 <p>
 Designed to withstand just about any climatic condition, Wistara BWP Grade Plywood is generally used in making partitions, paneling, Kitchen Furniture, corridors, vehicle and cargo hold covers, and so on. </p>
 <p>
-It comes with 16* solid years of warranty. 
+It comes with 25* solid years of warranty. 
 </p>
 
 						  </div>
@@ -270,7 +282,7 @@ It comes with 16* solid years of warranty.
                                 
                                 
                             <div class="tab-pane srgtabtext fade" id="warranty">
-							<p><img src="images/srg_icons3/3.png" alt="" style="padding:0 30px 30px 0;"></p>
+							<p><img src="images/srg_icons3/20.png" alt="" style="padding:0 30px 30px 0;"></p>
 								</div>
 
                           
@@ -304,7 +316,7 @@ It comes with 16* solid years of warranty.
 
 <p>This plywood is suitable for making Movie Set, partitions, paneling, ceilings, furniture and more, being able to withstand climatic changes. </p>
 
-<p>It comes with 10*years of warranty.	
+<p>It comes with 20*years of warranty.	
 
 </p>
 
@@ -362,7 +374,7 @@ It comes with 16* solid years of warranty.
                                 
                                 
                             <div class="tab-pane srgtabtext fade" id="warranty_bwr">
-							<p><img src="images/srg_icons3/16.png" alt="16" style="padding:0 30px 30px 0;"></p>
+							<p><img src="images/srg_icons3/18.png" alt="16" style="padding:0 30px 30px 0;"></p>
 								</div>
 
                           
@@ -394,7 +406,7 @@ It comes with 16* solid years of warranty.
 
 <p>This plywood is suitable for making Indoor Furniture, ceilings, furniture and more. </p>
 <p>
-It comes with 10*years of warranty.
+It comes with 20*years of warranty.
 
 
 </p>
@@ -453,7 +465,7 @@ It comes with 10*years of warranty.
                                 
                                 
                             <div class="tab-pane srgtabtext fade" id="warranty_mr">
-							<p><img src="images/srg_icons3/16.png" alt="" style="padding:0 30px 30px 0;"></p>
+							<p><img src="images/srg_icons3/18.png" alt="" style="padding:0 30px 30px 0;"></p>
 								</div>
 
                           

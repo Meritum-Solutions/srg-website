@@ -149,7 +149,7 @@
 					<div class="srgtabtext " >
 							<p>Wistara Flush Door, which also comes with a double core, is bonded with synthetic phenolic resin manufactured at SRG's own ultra-modern resin plant to ensure the product's rigidness. The process and parameters of our resin manufacturing are controlled and guided by IS 848: 2006.  </p>
 <p>
-It comes in an economic product range, with 10* years of warranty. 
+It comes in an economic product range, with 20* years of warranty. 
  </p>
 	                      </div>
                     						
@@ -190,7 +190,7 @@ It comes in an economic product range, with 10* years of warranty.
 It is bonded with synthetic phenolic resin manufactured at SRG's state-of-the-art resin plant to ensure rigidness. The process and parameters of this manufacturing are strictly controlled and guided by IS 848: 2006.
 </p>
 <p>
-It comes with 10* years of warranty.
+It comes with 20* years of warranty.
  
 </p>
 
@@ -252,7 +252,7 @@ It comes with 10* years of warranty.
                                 
                                 
                             <div class="tab-pane srgtabtext fade" id="warranty">
-							<p><img src="images/srg_icons3/16.png" alt="" style="padding:0 30px 30px 0;"></p>
+							<p><img src="images/srg_icons3/18.png" alt="" style="padding:0 30px 30px 0;"></p>
 								</div>
 
                           

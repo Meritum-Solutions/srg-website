@@ -119,7 +119,7 @@ PLYWOOD</div>
     						<div class="oc-item srgproduct-thumb-active">
 							<img src="images/srg_premium_t.jpg" alt="SRG PREMIUM">
 						</div>
-                        
+                      
                     
 						<div class="oc-item srgproduct-thumb ">
 							<a href="p_srg_captor.php"><img src="images/srg_captor_t.jpg" alt="SRG CAPTOR">
@@ -140,6 +140,16 @@ PLYWOOD</div>
                         
 						<div class="oc-item srgproduct-thumb">
 							<a href="p_srg_shuttering_ply.php"><img src="images/srg_shuttering_ply_t.jpg" alt="SRG SHUTTERING PLY">
+								</a>
+						</div>
+	
+						<div class="oc-item srgproduct-thumb">
+							<a href="p_srg_omen.php"><img src="images/onem.jpg" alt="SRG OMEN PLYWOOD">
+								</a>
+						</div>
+	
+						<div class="oc-item srgproduct-thumb">
+							<a href="p_srg_agni_shield.php"><img src="images/srg_agni_t.jpg" alt="SRG AGNI SHIELD PLYWOOD">
 								</a>
 						</div>
                         
@@ -202,7 +212,7 @@ It comes in two distinct grades - Boiling Water  Proof (BWP) and Moisture Resist
 						<div id="myTabContent" class="tab-content">
 						  <div class="tab-pane srgtabtext fade show active" id="overview_bwp">
 							<p>Made  using the most premium quality imported timber, SRG BWP Grade Plywood is known  for its unparalleled stiffness and high strength.</p>
-                            <p>With  each core veneer treated by phosphoric compound with adhesive, directly during  processing, the product comes with a 25*year warranty. It is usually ship  floors, boats, corridors, as well as cargo hold covers that make use of this  incredibly strong plywood from SRG. </p>
+                            <p>With  each core veneer treated by phosphoric compound with adhesive, directly during  processing, the product comes with a <b>lifetime warranty</b>. It is usually ship  floors, boats, corridors, as well as cargo hold covers that make use of this  incredibly strong plywood from SRG. </p>
                             <p>SRG  BWP Grade Plywood is bonded with high quality phenol formaldehyde resin of BWP  grade, manufactured at our own resin plant, following the process and strict  parameters of resin manufacturing, as controlled and guided by IS  848: 2006.						  </p>
 						  </div>
 						  <div class="tab-pane srgtabtext fade" id="features_bwp">
@@ -258,7 +268,7 @@ It comes in two distinct grades - Boiling Water  Proof (BWP) and Moisture Resist
                                 
                                 
                             <div class="tab-pane srgtabtext fade" id="warranty">
-							<p><img src="images/srg_icons3/20.png" alt="" style="padding:0 30px 30px 0;"></p>
+							<p><img src="images/srg_icons3/19.png" alt="Lifetime Warranty" style="padding:0 30px 30px 0;"></p>
 						  </div>
 
                           
@@ -377,7 +387,7 @@ It comes in two distinct grades - Boiling Water  Proof (BWP) and Moisture Resist
 						  <div class="tab-pane srgtabtext fade show active" id="overview_mr">
 							<p>The moisture-resistant variant of SRG Premium Plywood is manufactured from the best quality imported timber, when it is bonded with synthetic amino plus resin, with the process and parameters of resin manufacturing strenuously controlled and guided by IS 848 : 2006. </p>
 <p>
-SRG MR Grade Plywood comes with a 15*-year warranty surpassing every parameter under IS 303 : 1989. The adhesive used in making this brilliant MR variant has an organophosphorus compound mixed with it to protect the surface against attack from any dangerous microorganisms. </p>
+SRG MR Grade Plywood comes with a 30*-year warranty surpassing every parameter under IS 303 : 1989. The adhesive used in making this brilliant MR variant has an organophosphorus compound mixed with it to protect the surface against attack from any dangerous microorganisms. </p>
 <p>
 Born tough, SRG MR works best for making furniture, wardrobe , partitions, cabins, and so on. 
  
@@ -433,7 +443,7 @@ Born tough, SRG MR works best for making furniture, wardrobe , partitions, cabin
                                 
                                 
                             <div class="tab-pane srgtabtext fade" id="warranty_mr">
-							<p><img src="images/srg_icons3/17.png" alt="" style="padding:0 30px 30px 0;"></p>
+							<p><img src="images/srg_icons3/22.png" alt="30 Yrs Warranty" style="padding:0 30px 30px 0;"></p>
 						  </div>
 
                           

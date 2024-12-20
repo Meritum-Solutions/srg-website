@@ -150,7 +150,7 @@
 					<div class="srgtabtext " >
 							<p>VIGIL Flush Door, which also comes with a double core, is bonded with synthetic phenolic resin manufactured at our ultra-modern resin plant to ensure its rigidness. The process and parameters of resin manufacturing are controlled and guided by IS 848: 2006. </p>
 <p>
-It comes in an eco-friendly product range, with 10* years of warranty. </p>
+It comes in an eco-friendly product range, with 20* years of warranty. </p>
 	                      </div>
                     						
 					<!-- description ends -->
@@ -189,7 +189,7 @@ It comes in an eco-friendly product range, with 10* years of warranty. </p>
 <p>It is bonded with synthetic phenolic resin manufactured at our highly well-designed and equipped resin plant to ensure the product's rigidness. The process and parameters of such manufacturing are both controlled and guided by IS 848: 2006.
 </p>
 <p>
-It comes with 10* years of warranty. 
+It comes with 20* years of warranty. 
 </p>
 
 						  </div>
@@ -250,7 +250,7 @@ It comes with 10* years of warranty.
                                 
                                 
                             <div class="tab-pane srgtabtext fade" id="warranty">
-							<p><img src="images/srg_icons3/16.png" alt="" style="padding:0 30px 30px 0;"></p>
+							<p><img src="images/srg_icons3/18.png" alt="" style="padding:0 30px 30px 0;"></p>
 								</div>
 
                           
