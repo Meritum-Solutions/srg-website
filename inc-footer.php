@@ -70,7 +70,7 @@ FOR LASTING RELATIONSHIPS</div>
                     </div>
                     <div class="clear" style="height:5px"></div>
                     Copyright &copy; 2019 - <?php echo date("Y") ?> All Rights Reserved by SRG Group
-					<a href="https://wa.me/919825211582" target="_blank"><i class="icon-whatsapp" aria-hidden="true"></i></a>
+					<a href="https://wa.me/919825211582" target="_blank"><i class="fa fa-whatsapp" aria-hidden="true"></i></a>
 					</div>
 				</div>
               </div>
