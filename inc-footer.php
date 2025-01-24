@@ -50,36 +50,30 @@ FOR LASTING RELATIONSHIPS</div>
 					<div class="clearfix">
                     
                     <div class="col-sm-4 divcenter d-flex justify-content-sm-center mb-3 mb-sm-0">
-                    
-                    <a href="https://www.facebook.com/srgroupindiaoff" class="social-icon si-colored si-small si-rounded si-facebook nobottommargin" style="margin: 10px 10px 0 0;">
-								<i class="icon-facebook"></i>
-								<i class="icon-facebook"></i>
-							</a>
-							<a href="https://twitter.com/srgroupindiaoff" class="social-icon si-colored si-small si-rounded si-twitter nobottommargin" style="margin: 10px 10px 0 0;">
-								<i class="icon-twitter"></i>
-								<i class="icon-twitter"></i>
-							</a>
-							<a href="https://www.instagram.com/srgroupindiaoff" class="social-icon si-colored si-small si-rounded si-instagram nobottommargin" style="margin: 10px 10px 0 0;">
-								<i class="icon-instagram2"></i>
-								<i class="icon-instagram2"></i>
-							</a>
-							
-                            <a href="https://www.linkedin.com/company/sumitra-rajkripal-group" class="social-icon si-colored si-small si-rounded si-linkedin nobottommargin" style="margin: 10px 10px 0 0;">
-								<i class="icon-linkedin"></i>
-								<i class="icon-linkedin"></i>
-							</a>
-                            </div>
-                            <div class="clear" style="height:5px"></div>
-						 
-						<!--<div class="copyright-links" style="padding-bottom:10px;"><a href="#">Terms of Use</a> / <a href="#">Privacy Policy</a></div>-->
-                        
-                        Copyright @ 2019 All Rights Reserved by SRG Group
+						<a href="https://www.facebook.com/srgroupindiaoff" class="social-icon si-colored si-small si-rounded si-facebook nobottommargin" style="margin: 10px 10px 0 0;">
+							<i class="icon-facebook"></i>
+							<i class="icon-facebook"></i>
+						</a>
+						<a href="https://twitter.com/srgroupindiaoff" class="social-icon si-colored si-small si-rounded si-twitter nobottommargin" style="margin: 10px 10px 0 0;">
+							<i class="icon-twitter"></i>
+							<i class="icon-twitter"></i>
+						</a>
+						<a href="https://www.instagram.com/srgroupindiaoff" class="social-icon si-colored si-small si-rounded si-instagram nobottommargin" style="margin: 10px 10px 0 0;">
+							<i class="icon-instagram2"></i>
+							<i class="icon-instagram2"></i>
+						</a>
+						
+						<a href="https://www.linkedin.com/company/sumitra-rajkripal-group" class="social-icon si-colored si-small si-rounded si-linkedin nobottommargin" style="margin: 10px 10px 0 0;">
+							<i class="icon-linkedin"></i>
+							<i class="icon-linkedin"></i>
+						</a>
+                    </div>
+                    <div class="clear" style="height:5px"></div>
+                    Copyright &copy; 2019 - <?php echo date("Y") ?> All Rights Reserved by SRG Group
+					<a href="https://wa.me/919825211582" target="_blank"><i class="icon-whatsapp" aria-hidden="true"></i></a>
 					</div>
-
 				</div>
               </div>
-
 			</div><!-- #copyrights end -->
-
 		</footer><!-- #footer end -->
 
