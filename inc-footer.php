@@ -73,7 +73,15 @@ FOR LASTING RELATIONSHIPS</div>
 						 
 						<!--<div class="copyright-links" style="padding-bottom:10px;"><a href="#">Terms of Use</a> / <a href="#">Privacy Policy</a></div>-->
                         
-                        Copyright @ 2019 All Rights Reserved by SRG Group
+                        Copyright &copy; - <?php date("Y") ?> 2019 All Rights Reserved by SRG Group
+						<script async src='https://d2mpatx37cqexb.cloudfront.net/delightchat-whatsapp-widget/embeds/embed.min.js'></script>
+        <script>
+          var wa_btnSetting = {"btnColor":"#16BE45","ctaText":"","cornerRadius":40,"marginBottom":20,"marginLeft":20,"marginRight":20,"btnPosition":"right","whatsAppNumber":"919825211582","welcomeMessage":"Welcome to SRG Ply","zIndex":999999,"btnColorScheme":"light"};
+          window.onload = () => {
+            _waEmbed(wa_btnSetting);
+          };
+        </script>
+      
 					</div>
 
 				</div>
