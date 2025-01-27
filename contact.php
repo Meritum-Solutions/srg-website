@@ -97,7 +97,7 @@
                         <div class="srgtext bottommargin topmargin-sm">
                           <p>We love to hear from our customers and business partners- whether you are currently one or are interested in becoming one. <br>Please fill in your contact details along with your query and our dedicated customer support team will get in touch with you soon. </p>
                           
-                           <p><i class="icon-email" style=" color:#F00"></i>  <a href="mailto: contactus@srgroupindia.com">contactus@srgroupindia.com</a> |     <i class="icon-whatsapp" style=" color:#F00"></i>   <a href="tel:+918851854163">+91-8851854163</a> |     <i class="icon-phone" style=" color:#F00"></i>   <a href="tel:18005470059">1800-547-0059</a> </p>
+                           <p><i class="icon-email" style=" color:#F00"></i>  <a href="mailto: contact@srgply.com">contact@srgply.com</a> |     <i class="icon-whatsapp" style=" color:#F00"></i>   <a href="tel:+919825211582">+919825211582</a> |     <i class="icon-phone" style=" color:#F00"></i>   <a href="tel:18005470059">1800-547-0059</a> </p>
                           
                       </div>
 					</div>
