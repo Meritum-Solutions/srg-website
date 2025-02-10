@@ -73,7 +73,7 @@ FOR LASTING RELATIONSHIPS</div>
 						 
 						<!--<div class="copyright-links" style="padding-bottom:10px;"><a href="#">Terms of Use</a> / <a href="#">Privacy Policy</a></div>-->
                         
-                        Copyright &copy; - <?php date("Y") ?> 2019 All Rights Reserved by SRG Group | Maintained By <a href="https://palisatiwebresources.com/" target="_blank">Pali Sati Web Resources Pvt Ltd</a>
+                        Copyright &copy; - <?php date("Y") ?> 2019 All Rights Reserved by SRG Group
 						<script async src='https://d2mpatx37cqexb.cloudfront.net/delightchat-whatsapp-widget/embeds/embed.min.js'></script>
         <script>
           var wa_btnSetting = {"btnColor":"#16BE45","ctaText":"","cornerRadius":40,"marginBottom":20,"marginLeft":20,"marginRight":20,"btnPosition":"right","whatsAppNumber":"919825211582","welcomeMessage":"Hi, inquiry via web to know about SRG Ply","zIndex":999999,"btnColorScheme":"light"};
